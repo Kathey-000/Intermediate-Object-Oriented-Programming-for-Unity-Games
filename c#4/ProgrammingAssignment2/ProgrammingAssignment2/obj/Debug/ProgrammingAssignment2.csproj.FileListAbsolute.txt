@@ -1,0 +1,7 @@
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
