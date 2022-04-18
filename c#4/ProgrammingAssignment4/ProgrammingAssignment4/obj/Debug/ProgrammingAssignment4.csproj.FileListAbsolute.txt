@@ -1,0 +1,7 @@
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.exe.config
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.exe
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\bin\Debug\ProgrammingAssignment4.pdb
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.csproj.AssemblyReference.cache
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.exe
+C:\Users\MSI-PC\Desktop\ProgrammingAssignment4\ProgrammingAssignment4\obj\Debug\ProgrammingAssignment4.pdb
